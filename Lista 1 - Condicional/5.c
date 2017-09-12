@@ -1,3 +1,9 @@
+/*Dadas 3 notas de uma aluno, calcular sua média e seu conceito, de acordo com a seguinte conversão:
+A: Média >= 9,0
+B: 9,0 > Média >= 7,5
+C: 7,5 > Média >= 6,0
+D: Média < 6,0*/
+
 #include <stdio.h>
 
 double media(double n1, double n2, double n3)
