@@ -1,3 +1,6 @@
+/*Faça um algoritmo que recebe três valores reais e verifica se estes podem corresponder aos lados de um
+triângulo retângulo. A saída do algoritmo deve ser uma mensagem.*/
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
