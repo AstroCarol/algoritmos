@@ -1,3 +1,5 @@
+/*Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito*/
+
 #include <stdio.h>
 
 double media(double n1, double n2, double n3)
