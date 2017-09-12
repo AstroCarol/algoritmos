@@ -1,3 +1,7 @@
+/*Escreva um programa para fazer o cálculo das seguintes conversões entre sistemas de medida:
+a) dada uma temperatura na escala Celsius, fornecer a equivalente em graus Fahrenheit, e vice-versa;
+ fórmula de conversão: 1º F = (9 / 5)º C + 32*/
+
 #include <stdio.h>
 
 float celsius(float f)
