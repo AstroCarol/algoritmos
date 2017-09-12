@@ -1,3 +1,5 @@
+/*Faça um algoritmo que recebe três valores e os imprime o maior deles.*/
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
