@@ -1,3 +1,7 @@
+/*A partir do preço à vista de um determinado produto, calcular o preço total a pagar e o valor da prestação
+mensal, referentes ao pagamento parcelado. Se o pagamento for parcelado em três vezes deverá ser dado
+um acréscimo de 10% no total a ser pago. Se for parcelado em 5 vezes, o acréscimo é de 20%.*/
+
 #include <stdio.h>
 
 double preco(double p, int v)
