@@ -1,3 +1,5 @@
+/*Faça um programa que leia um valor N inteiro e positivo, calcule e mostre o valor do fatorial de N.*/
+
 #include <stdio.h>
 
 int fatorial(int f)
