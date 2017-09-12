@@ -1,3 +1,5 @@
+\\Dado um número inteiro, construa um algoritmo que imprima “par” ou “ímpar”, se o número for par ou ímpar, respectivamente. (use a função RESTO(EAx,EAy).
+
 #include <stdio.h>
 
 int resto(int a, int b)
