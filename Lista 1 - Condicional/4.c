@@ -1,3 +1,7 @@
+/*Ler 2 valores. Se o primeiro valor lido for maior do que o segundo, então informar a soma dos dois 
+valores. Mas, se o primeiro valor for menor ou igual ao segundo, então informar o produto desses 
+números.*/
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
