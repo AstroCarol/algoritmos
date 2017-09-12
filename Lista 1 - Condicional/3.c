@@ -1,3 +1,5 @@
+//Faça um algoritmo que calcule as raízes reais de uma equação do segundo grau.
+
 #include <stdio.h>
 #include <math.h>
 
