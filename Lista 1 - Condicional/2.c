@@ -1,3 +1,5 @@
+//Seja X um número qualquer, elabore um algoritmo que diga se X é maior, igual ou menor a 200.
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
