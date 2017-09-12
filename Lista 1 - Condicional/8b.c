@@ -1,3 +1,7 @@
+/*Escreva um programa para fazer o cálculo das seguintes conversões entre sistemas de medida:
+ b) dada uma medida em polegadas, fornecer a equivalente em milímetros, e vice-versa;
+ fórmula de conversão: 1 pol = 25,4 mm*/
+
 #include <stdio.h>
 
 float polegadas(int m)
