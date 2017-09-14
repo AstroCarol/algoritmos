@@ -12,9 +12,11 @@ int main(int argc, char *argv[])
 	float alt, auxalt;
 	int id, auxid, i=0;
 	char nome[100], auxn[100];
-	while(i < 3)
+	while(i < 600)
 	{
-		scanf("%[^\n]s", nome);
+		printf("Digite o nome do %d idoso\n", i);
+		scanf("%s", nome);
+		printf("Digite a idade e a altura do idoso respectivamente\n");
 		scanf("%d %f", &id, &alt);
 		if (alt > auxalt)
 		{
@@ -24,8 +26,6 @@ int main(int argc, char *argv[])
 		}
 	i++;
 	}
-	printf("Nome: %s\n", auxn);
-	printf("Idade: %d\n", auxid);
-	printf("Altura: %f\n", auxalt);
+	printf("Nome do idoso mais alto: %s\nIdade do idoso mais alto: %d\nAltura do idoso mais alto: %f\n", auxn, auxid, auxalt);
 	return 0;
 }
